@@ -20,22 +20,23 @@ This document lists the expectations for rotation students joining my lab.  Some
 
 # You will develop your technical and research skills
 * You will learn the following base-level computational skills: 
-** Linux command line
-** i-commands
-** Running bioinformatic tools
-** Have introductary skills in programming (Python/R/shell)
-** Best practices for managing code and data
+ * Linux command line
+ * i-commands
+ * Running bioinformatic tools
+ * Have introductary skills in programming (Python/R/shell)
+ * Best practices for managing code and data
 
 # Before you start, you will have:
 * Read these papers:
-** Best Practices for Scientific Computing: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
-** Good Enough Practices for Scientific Computing: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+ * Best Practices for Scientific Computing: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+ * Good Enough Practices for Scientific Computing: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
 * Have the following accounts set up:
-** CyVerse: https://user.cyverse.org
-** UA HPC: https://account.arizona.edu/welcome
-** GitHub: https://github.com/
-** DockerHub: https://hub.docker.com/
-** Building access to BSRL: https://access.bio5.org/
+ * CyVerse: https://user.cyverse.org
+ * UA HPC: https://account.arizona.edu/welcome
+ * GitHub: https://github.com/
+ * DockerHub: https://hub.docker.com/
+ * Building access to BSRL: https://access.bio5.org/
+
 # While a member of my group, you will contribute to being a good citizen
 * You will help and teach others
 * You will share your data and analyses with others (these belong to the group, not to any single individual)
