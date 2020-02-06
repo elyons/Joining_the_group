@@ -22,9 +22,13 @@ This document lists the expectations for rotation students joining my lab.  Some
 * You will learn the following base-level computational skills: 
   * Linux command line
   * i-commands
+  * Logging into remote servers
+  * Launching and using Jupyter Notebooks
   * Running bioinformatic tools
   * Have introductary skills in programming (Python/R/shell)
   * Best practices for managing code and data
+  * Git / GitHub
+  * Containers: Docker, Singulatiry, and DockerHub
 
 # Before you start, you will have:
 * Read these papers:
@@ -36,6 +40,9 @@ This document lists the expectations for rotation students joining my lab.  Some
   * GitHub: https://github.com/
   * DockerHub: https://hub.docker.com/
   * Building access to BSRL: https://access.bio5.org/
+* Gone through the following tutorials:
+  * CyVerse tutorials available: https://cyverse-foss-2020.readthedocs-hosted.com/en/latest/index.html
+  * Software essential tutorials available: https://cyverse-foss-2020.readthedocs-hosted.com/en/latest/index.html
 
 # While a member of my group, you will contribute to being a good citizen
 * You will help and teach others
