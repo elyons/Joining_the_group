@@ -14,7 +14,7 @@ Please answer the following questions:
 
 * On a scale of 1-10, rank your experience with Git and GitHub?
 
-  *If higher than a 3, clone/fork this repo for submitting your answers.
+  * If higher than a 3, clone/fork this repo for submitting your answers.
 
 * On a scale of 1-10, rank your background in genetics and genomics?
 
