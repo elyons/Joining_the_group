@@ -33,7 +33,7 @@ This document lists the expectations for rotation students joining my lab.  Some
 * Read these papers:
   * Best Practices for Scientific Computing: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
   * Good Enough Practices for Scientific Computing: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
-* Have the following accounts set up:
+* Set up the following accounts:
   * CyVerse: https://user.cyverse.org
   * UA HPC: https://account.arizona.edu/welcome
   * GitHub: https://github.com/
