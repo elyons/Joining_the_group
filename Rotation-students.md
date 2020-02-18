@@ -30,6 +30,7 @@ This document lists the expectations for rotation students joining my lab.  Some
   * Containers: Docker, Singulatiry, and DockerHub
 
 # Before you start, you will have:
+* Complete this assessment: https://github.com/elyons/Joining_the_group/blob/master/Questionnaire-for-new-students.md
 * Read these papers:
   * Best Practices for Scientific Computing: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
   * Good Enough Practices for Scientific Computing: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
