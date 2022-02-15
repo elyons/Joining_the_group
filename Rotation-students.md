@@ -1,4 +1,4 @@
-# Rotation Students
+# Rotation and Graduate Students
 This document lists the expectations for rotation students joining my lab.  Some content is borrowed from: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709
 
 # What you can expect from me
