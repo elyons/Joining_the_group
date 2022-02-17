@@ -1,5 +1,5 @@
 # Rotation and Graduate Students
-This document lists the expectations for rotation students joining my lab.  Some content is borrowed from: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709
+This document lists the expectations for students joining my lab.  Some content is borrowed from: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709
 
 # What you can expect from me
 * I am committed to mentoring you now and in the future. This will be geared towards the future career that you want, be it in industry, government, academic, etc.  I am committed to your education and training while in my group, and to advising and guiding your career development. I will work to promote you and your work.
