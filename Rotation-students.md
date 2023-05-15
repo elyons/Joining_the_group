@@ -41,7 +41,7 @@ This document lists the expectations for students joining my lab.  Some content 
   * DockerHub: https://hub.docker.com/
   * Building access to BSRL: https://access.bio5.org/
 * Gone through the following tutorials:
-  * CyVerse tutorials available: https://cyverse-foss-2020.readthedocs-hosted.com/en/latest/index.html
+  * CyVerse's Foundation of Open Science Skills tutorials available: https://cyverse-foss-2020.readthedocs-hosted.com/en/latest/index.html
   * Software essential tutorials available: https://cyverse-foss-2020.readthedocs-hosted.com/en/latest/index.html
 
 # While a member of my group, you will contribute to being a good citizen
